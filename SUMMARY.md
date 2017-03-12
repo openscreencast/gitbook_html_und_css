@@ -8,3 +8,4 @@
 * [Ein Bild einfügen (img)](ein_bild_einfuegen.md)
 * [Webseite veröffentlichen (Hosting)](webseite_veroeffentlichen.md)
 * [Eine CSS-Datei einbinden](eine_css_datei_einbinden.md)
+* [Farben](farben.md)
