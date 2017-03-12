@@ -14,5 +14,15 @@
 1. Nenne 3 weitere Editoren die sich für die Erstellung von HTML-Seiten eignen.
 2. Ist ein Office-Paket (z.B. LibreOffice) geeignet um HTML-Seiten zu bearbeiten ? Begründe deine Antwort.
 
+### Quiz
 
-
+<quiz name="">
+    <question multiple>
+        <p>Welche Programme sind keine Webbrowser ?</p>
+        <answer>Safari</answer>
+        <answer>Chrome</answer>
+        <answer correct>Gimp</answer>
+        <answer correct>Python</answer>
+	<answer>Firefox</answer>
+    </question>
+</quiz>
