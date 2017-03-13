@@ -9,7 +9,7 @@
 
 ### Aufgaben
 
-1. Erläutern Sie welche Bedeutung die Zeichenketten <html> und <body> in einem HTML-Dokument haben.
+1. Erläutern Sie welche Bedeutung die Zeichenketten &lt;html&gt; und &lt;body&gt; in einem HTML-Dokument haben.
 
 ### Quiz
 
