@@ -7,4 +7,20 @@
 * [WP:Liste_von_HTML-Editoren](http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren)
 * http://brackets.io/
 
+### Aufgaben
+
+1. Erläutern Sie welche Bedeutung die Zeichenketten <html> und <body> in einem HTML-Dokument haben.
+
+### Quiz
+
+<quiz name="">
+    <question multiple>
+        <p>Wie können Sie mit dem Webbrowser Firefox die Webseite neu laden ?</p>
+        <answer correct>auf "Aktuelle Seite neu laden" klicken</answer>
+        <answer correct>Tasten Strg+R drücken</answer>
+        <answer>den Befehl firefox --new-load ausführen</answer>
+	<answer correct>Taste F5 drücken</answer>
+    </question>
+</quiz>
+
 
