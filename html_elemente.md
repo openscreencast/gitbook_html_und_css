@@ -2,6 +2,9 @@
 
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/1rjhqpDHGCM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+* [WP:Hyperlink](https://de.wikipedia.org/wiki/Hyperlink)
+* [Link](https://wiki.selfhtml.org/wiki/HTML/Textauszeichnung/a)
+
 ### Aufgaben
 
 1. Erläutern Sie den Einsatz von Tags in HTML-Dokumenten.
