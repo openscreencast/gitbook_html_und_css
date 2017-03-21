@@ -8,3 +8,20 @@
 * [HTML Color Codes](http://html-color-codes.info/)
 * [ColorPicker](http://www.colorpicker.com/)
 
+### Aufgaben
+
+1. Verändere die Hintergrundfarbe deiner Webseite in blau. Benutze dazu den Hex-Code.
+2. Verändere die Textfarbe deiner Überschrift in gelb. Benutze dazu die RGB-Werte.
+
+### Quiz
+
+<quiz name="">
+    <question multiple>
+        <p>Welche Variaten sind korrekt um die Textfarbe zu ändern ?</p>
+        <answer correct>color: #0000FF;</answer>
+        <answer correct>color: blue;</answer>
+        <answer correct>color: rgb(0,0,255)</answer>
+	<answer correct>color: hsl(240,100%,100%)</answer>
+    </question>
+</quiz>
+
