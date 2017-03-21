@@ -5,7 +5,7 @@
 ### Aufgaben
 
 1. Erstelle eine html-Datei mit diesem Grundgerüst.
-```
+{%ace edit=true, lang='html'%}
 <!DOCTYPE html>
 <html>
   <head>
@@ -15,7 +15,7 @@
   <body>
   </body>
 </html>
-```
+{%endace%}
 2. Füge eine Hauptüberschrift und einen Textabsatz (Paragraph) hinzu. (Inhalt: deine Wahl)
 
 ### Quiz
