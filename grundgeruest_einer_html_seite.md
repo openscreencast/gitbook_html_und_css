@@ -5,7 +5,7 @@
 ### Aufgaben
 
 1. Erstelle eine html-Datei mit diesem Grundgerüst.
-{%ace edit=true, lang='html'%}
+{%ace edit=false, lang='html'%}
 <!DOCTYPE html>
 <html>
   <head>
