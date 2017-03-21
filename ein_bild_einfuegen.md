@@ -2,6 +2,10 @@
 
 <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/diiikCQbmlA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+### Links
+
+* [wiki.selfhtml - img](https://wiki.selfhtml.org/wiki/HTML/Multimedia_und_Grafiken/Grafiken)
+
 ### Aufgaben
 
 1. Lade ein Bild deiner Wahl von der Webseite https://pixabay.com/ herunter und füge es nach dem Textabsatz in deine Webseite ein. (Die Bilddatei sollte im gleichen Ordner sein wie die .html-Datei.)
