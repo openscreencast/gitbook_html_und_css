@@ -7,7 +7,7 @@
 * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language)
 * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets)
 * [WP:Liste_von_HTML-Editoren](http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren)
-* http://brackets.io/
+* [Brackets](http://brackets.io/)
 
 ### Aufgaben
 
