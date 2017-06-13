@@ -7,11 +7,6 @@
 * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language)
 * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-### Aufgaben
-
-1. Mache dich mit der Geschichte und Entstehung von HTML, CSS und WWW vertraut.
-2. Finde heraus welches die aktuellen Versionen von HTML und CSS sind.
-
 ### Quiz
 
 <quiz name="">

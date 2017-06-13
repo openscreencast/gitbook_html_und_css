@@ -8,11 +8,6 @@
 * [WP:Hyperlink](https://de.wikipedia.org/wiki/Hyperlink)
 * [Link](https://wiki.selfhtml.org/wiki/HTML/Textauszeichnung/a)
 
-### Aufgaben
-
-1. Erläutern Sie den Einsatz von Tags in HTML-Dokumenten.
-2. Nennen Sie 3 HTML-Tags und dessen Bedeutung.
-
 ### Quiz
 
 <quiz name="">

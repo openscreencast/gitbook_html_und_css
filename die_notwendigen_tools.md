@@ -11,11 +11,6 @@
 * [Atom](https://atom.io/)
 * [Coder](http://googlecreativelab.github.io/coder/)
 
-### Aufgaben
-
-1. Nenne 3 weitere Editoren die sich für die Erstellung von HTML-Seiten eignen.
-2. Ist ein Office-Paket (z.B. LibreOffice) geeignet um HTML-Seiten zu bearbeiten ? Begründe deine Antwort.
-
 ### Quiz
 
 <quiz name="">

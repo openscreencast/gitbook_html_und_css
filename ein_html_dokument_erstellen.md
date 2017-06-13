@@ -9,10 +9,6 @@
 * [WP:Liste_von_HTML-Editoren](http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren)
 * [Brackets](http://brackets.io/)
 
-### Aufgaben
-
-1. Erläutern Sie welche Bedeutung die Zeichenketten &lt;html&gt; und &lt;body&gt; in einem HTML-Dokument haben.
-
 ### Quiz
 
 <quiz name="">

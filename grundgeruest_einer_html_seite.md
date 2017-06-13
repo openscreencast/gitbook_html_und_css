@@ -6,22 +6,6 @@
 
 * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language)
 
-### Aufgaben
-
-1. Erstelle eine html-Datei mit diesem Grundgerüst.
-{%ace edit=false, lang='html'%}
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Meine erste Webseite</title>
-  </head>
-  <body>
-  </body>
-</html>
-{%endace%}
-2. Füge eine Hauptüberschrift und einen Textabsatz (Paragraph) hinzu. (Inhalt: deine Wahl)
-
 ### Quiz
 
 {%fbq%}Mit dem $$title##-Element wird der Titel oben im Webbrowser angezeigt.{%endfbq%}
