@@ -1,6 +1,6 @@
 # Die notwendigen Tools
 
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/4zF55X9iK1E?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube-nocookie.com/embed/4zF55X9iK1E?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Links
 
@@ -11,15 +11,3 @@
 * [Atom](https://atom.io/)
 * [Coder](http://googlecreativelab.github.io/coder/)
 
-### Quiz
-
-<quiz name="">
-    <question multiple>
-        <p>Welche Programme sind keine Webbrowser ?</p>
-        <answer>Safari</answer>
-        <answer>Chrome</answer>
-        <answer correct>Gimp</answer>
-        <answer correct>Python</answer>
-	<answer>Firefox</answer>
-    </question>
-</quiz>

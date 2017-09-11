@@ -1,6 +1,6 @@
 # Webseite veröffentlichen (Hosting)
 
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/rnRCYP5dFrY?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="430" src="https://www.youtube-nocookie.com/embed/rnRCYP5dFrY?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Links
 
@@ -15,17 +15,4 @@
 * http://goo.gl/
 * https://bitly.com/
 * http://tiny.cc/
-
-### Quiz
-
-<quiz name="">
-    <question multiple>
-        <p>Nenne 2 Webhosting-Dienste die dir bekannt sind ?</p>
-        <answer correct>GitHub Pages</answer>
-        <answer>DragonWebPages</answer>
-        <answer>Now Docker</answer>
-	<answer correct>BitBalloon</answer>
-    </question>
-</quiz>
-
 
