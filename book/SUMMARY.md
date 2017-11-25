@@ -10,4 +10,5 @@
 * [Webseite veröffentlichen (Hosting)](webseite_veroeffentlichen.md)
 * [Eine CSS-Datei einbinden](eine_css_datei_einbinden.md)
 * [Farben](farben.md)
+* [CSS-Regeln](css_regeln.md)
 * [Lizenz](copyright.md)
