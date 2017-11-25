@@ -23,8 +23,8 @@
         <p>Welche der folgenden Selektoren sind keine Klassenselektoren ?</p>
         <answer correct>p { }</answer>
         <answer correct>p a { }</answer>
-        <answer correct>#hyper</answer>
-        <answer>.main</answer>
+        <answer correct>#hyper { }</answer>
+        <answer>.main { }</answer>
     </question>
 </quiz>
 
